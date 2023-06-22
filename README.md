@@ -1,5 +1,5 @@
 # CRED-T8
-Team ID: CRED-T8 | Team Members: Narendra Manglani &amp; Abhishek Ranjan
+Team ID: CRED | Team Members: Rahul Kumar Gupta || Shashank Jain || Rishav Kumar Mishra || Saurabh Gupta
 
 ---
 
@@ -28,15 +28,7 @@ As an externship program we had provided a project to make a Credit Card Managem
 
 ---
 
-### Demo
 
-Below is a demo of final project.
-
-- [Demo Link](https://www.youtube.com/watch?v=3rGtfzDxl0A)
-
-- GIF  <br/> <br/> ![](./assets/demo.gif)
-
----
 
 ### Features
 
@@ -150,5 +142,5 @@ npm run client - to run client standalone.
 ---
 
 ### Developed By
-
+Rahul Kumar Gupta
 
